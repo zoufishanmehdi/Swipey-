@@ -1,0 +1,227 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Products/Debug-iphonesimulator/AFNetworking.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperation.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperationManager.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-Swift.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Products/Debug-iphonesimulator/AFNetworking.framework/Headers/AFNetworking-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-umbrella.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLConnectionOperation.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+AFNetworking.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Products/Debug-iphonesimulator/AFNetworking.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Intermediates/Pods.build/Debug-iphonesimulator/AFNetworking.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Products/Debug-iphonesimulator/Pods_Donate.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Donate-umbrella.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Target Support Files/Pods-Donate/Pods-Donate-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Donate-Swift.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Products/Debug-iphonesimulator/Pods_Donate.framework/Headers/Pods_Donate-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Products/Debug-iphonesimulator/Pods_Donate.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Donate.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Products/Debug-iphonesimulator/Stripe.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "STPAPIClient.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Stripe/Stripe/PublicHeaders/STPAPIClient.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPBankAccount.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Stripe/Stripe/PublicHeaders/STPBankAccount.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCard.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Stripe/Stripe/PublicHeaders/STPCard.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCheckoutOptions.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Stripe/Stripe/PublicHeaders/Checkout/STPCheckoutOptions.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCheckoutViewController.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Stripe/Stripe/PublicHeaders/Checkout/STPCheckoutViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPNullabilityMacros.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Stripe/Stripe/PublicHeaders/STPNullabilityMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPToken.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Stripe/Stripe/PublicHeaders/STPToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "Stripe-Swift.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Products/Debug-iphonesimulator/Stripe.framework/Headers/Stripe-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Stripe-umbrella.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Target Support Files/Stripe/Stripe-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Stripe.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Stripe/Stripe/PublicHeaders/Stripe.h"
+        },
+        {
+          'type': 'file',
+          'name': "StripeError.h",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/Pods/Stripe/Stripe/PublicHeaders/StripeError.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Products/Debug-iphonesimulator/Stripe.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DerivedData/Donate/Build/Intermediates/Pods.build/Debug-iphonesimulator/Stripe.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.5 clang-703.0.31)"
+options: "4f1b4200165d065074c8a94656e028ca"
+build_time: [516839831, 894415000]
+inputs:
+  "/Users/zinfandel/Projects/c4q/summer-2016/Swipe/Swipe/Donate-Template 2/DonateTests/DonateTests.swift": [486991584, 0]
